@@ -19,3 +19,12 @@
   run all로 모든 셀 동작
   마지막 셀에서 각진동수 비, 실험 이미지 절대 경로, 실험에서 세팅한 delta 값을 입력
   -> 마지막 셀에서 실험 이미지의 입력받은 각진동수 비에 해당하는 예측 delta 값과 그 값에 해당하는 리사주 도형, 원래 나와야 하는 리사주 도형 이미지를 출력함. 
+
+  #코드 확인 방법#
+  <img width="2528" height="1082" alt="image" src="https://github.com/user-attachments/assets/0129f0ac-b85c-4860-97e7-28ba5e90f465" />
+< 오실로스코프. ver 1.3 클릭
+  <img width="2554" height="945" alt="image" src="https://github.com/user-attachments/assets/19d39b4c-09b1-4e86-bcad-2f9ba84d73f0" />
+< view file 클릭
+
+!중요!
+코드의 전체적인 틀은 직접 작성했으나, 코드에서 발생하는 오류를 잡기 위해 ChatGPT의 도움을 받은 코드이다.
