@@ -7,11 +7,13 @@
   #동기#
   함수 발생기가 위상차(delta)=0임에도 다른 위상차 출력.
   -> CNN 회귀 분석으로 위상차 예측하고자 함.
-
+  <img width="975" height="371" alt="image" src="https://github.com/user-attachments/assets/5c12765c-43e5-4d28-85f3-bef733149197" />
+  [Figure 1] CNN processing diagram
+  
   #train 과정#
   임의의 delta 값과 그에 해당하는 이미지를 무작위로 생성하여 train sample, val sample 제작
   -> train 12000장, val 2000장으로 학습.
-  epochs=15로 진행.
+  epochs=21로 진행.
 
   #사용 방법#
   run all로 모든 셀 동작
